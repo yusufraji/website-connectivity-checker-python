@@ -1,0 +1,4 @@
+pypi.org
+python.org
+docs.python.org
+peps.python.org
